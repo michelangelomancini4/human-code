@@ -25,8 +25,12 @@ SVOLGIMENTO
 
 CONDIZIONI
 
-----SE: La consegna rientra nelle tempistiche -Acquisto la lampada --ALTRIMENTI -Cerco la penna stilografica su Amazon
+----SE:Non trovo la lampada --ALLORA -Cerco la penna stilografica su Amazon
+----SE:Trovo la lampada e la consegna rientra nelle tempistiche -Acquisto la lampada --ALTRIMENTI -Cerco la penna stilografica su Amazon
 
-----SE: Trovo una penna stilografica che non sfora di budget - Acquisto la penna stilografica --ALTRIMENTI -Cerco un libro
+----SE:Non trovo la penna su amazon --ALLORA -Cerco un libro su Amazon
+----SE: Trovo su amazon una penna stilografica che non sfora di budget - Acquisto la penna stilografica --ALTRIMENTI -Cerco un libro  su amazon
 
-----SE: Tovo un libro  -Acquisto un libro
+----SE: Trovo su amazon un libro  -Acquisto un libro su amazon
+
+---Se: non trovo nessun regalo su amazon --ALLORA - le compro una torta
