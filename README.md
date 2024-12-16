@@ -14,6 +14,7 @@ Regalo carino/ costoso : penna stilografica
  Alternativa 2: Il libro
 
 SVOLGIMENTO
+
  -Accendo il pc 
 -Apro Google Chrome 
 -Vado sul sito di Amazon 
@@ -22,15 +23,28 @@ SVOLGIMENTO
 -Controllo se è disponibile 
 -controllo spese e modalità di spedizione
 
-
-CONDIZIONI
-
 ----SE:Non trovo la lampada --ALLORA -Cerco la penna stilografica su Amazon
 ----SE:Trovo la lampada e la consegna rientra nelle tempistiche -Acquisto la lampada --ALTRIMENTI -Cerco la penna stilografica su Amazon
+
+-Faccio la ricerca : Penna stilografica 
+-Scelgo la penna che mi piace di più
+-Controllo se è disponibile 
+-controllo spese e modalità di spedizione
 
 ----SE:Non trovo la penna su amazon --ALLORA -Cerco un libro su Amazon
 ----SE: Trovo su amazon una penna stilografica che non sfora di budget - Acquisto la penna stilografica --ALTRIMENTI -Cerco un libro  su amazon
 
+-Faccio la ricerca : Libro 
+-Scelgo il libro che mi piace di più
+-Controllo se è disponibile 
+-controllo spese e modalità di spedizione
+
 ----SE: Trovo su amazon un libro  -Acquisto un libro su amazon
 
----Se: non trovo nessun regalo su amazon --ALLORA - le compro una torta
+---Se: non trovo nessun regalo su amazon
+   --ALLORA 
+   -chiudo Google Chrome
+   -spengo il pc
+   -esco
+   -le compro una torta
+          
